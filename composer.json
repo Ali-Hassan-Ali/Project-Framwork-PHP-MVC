@@ -1,0 +1,23 @@
+{
+    "name": "project/php-mvc",
+    "description": "create project php mvc",
+    "authors": [
+        {
+            "name": "AliHassan011",
+            "email": "ah965961@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "project\\": "src"
+        }
+    }
+
+}
