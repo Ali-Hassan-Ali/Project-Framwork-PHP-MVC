@@ -1,6 +1,6 @@
 # Project-PHP-MVC
 
-php create mvc structure
+php create framwork php and mvc structure
 
 1- filse structure
 
